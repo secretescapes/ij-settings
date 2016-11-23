@@ -1,0 +1,13 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://sonar.secretescapes.com:9090/sonar" />
+          <option name="name" value="Sonar" />
+          <option name="user" value="kamil" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>
