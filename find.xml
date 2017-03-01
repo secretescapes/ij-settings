@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'brawe-and-true'" />
-    <option name="defaultScopeName" value="Project 'brawe-and-true'" />
-    <option name="SEARCH_SCOPE" value="Project 'brawe-and-true'" />
+    <option name="customScope" value="Project 'aws-lambda-image'" />
+    <option name="defaultScopeName" value="Project 'aws-lambda-image'" />
+    <option name="SEARCH_SCOPE" value="Project 'aws-lambda-image'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
