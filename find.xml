@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'aws-lambda-image'" />
     <option name="defaultScopeName" value="Project 'aws-lambda-image'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'aws-lambda-image'" />
     <recentFileMasks>
       <mask>*.html</mask>
