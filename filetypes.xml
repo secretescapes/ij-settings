@@ -8,6 +8,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping pattern="jenvrc" type="Properties" />
+      <mapping pattern=".mdlrc" type="YAML" />
     </extensionMap>
   </component>
 </application>
