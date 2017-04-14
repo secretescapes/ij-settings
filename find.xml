@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../grails-app/assets/javascripts/sale/JetloreTest.js - [flashsales]'" />
+    <option name="defaultScopeName" value="File '.../grails-app/assets/javascripts/sale/JetloreTest.js - [flashsales]'" />
+    <option name="SEARCH_SCOPE" value="File '.../grails-app/assets/javascripts/sale/JetloreTest.js - [flashsales]'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
