@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../grails-app/assets/javascripts/sale/JetloreTest.js - [flashsales]'" />
     <option name="defaultScopeName" value="File '.../grails-app/assets/javascripts/sale/JetloreTest.js - [flashsales]'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../grails-app/assets/javascripts/sale/JetloreTest.js - [flashsales]'" />
     <recentFileMasks>
       <mask>*.html</mask>
