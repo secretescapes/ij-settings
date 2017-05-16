@@ -14,9 +14,9 @@
       <mask>*ControllerSpec.groovy</mask>
       <mask>*.groovy</mask>
       <mask>*Service.groovy</mask>
-      <mask>*.js</mask>
       <mask>*.properties</mask>
       <mask>*.gsp</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
