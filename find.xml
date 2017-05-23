@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*.j</mask>
       <mask>*.g*</mask>
@@ -15,13 +16,8 @@
       <mask>*.css|*.le</mask>
       <mask>*.css|*.les</mask>
       <mask>*.css|*.less</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
       <mask>*.grooby</mask>
       <mask>*.groob</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
       <mask>*.leel</mask>
       <mask>*.lee</mask>
       <mask>*.c</mask>
@@ -36,6 +32,11 @@
       <mask>*.g</mask>
       <mask>*.gs</mask>
       <mask>*.gsp</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
