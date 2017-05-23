@@ -5,30 +5,38 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*ControllerSpec.groovy</mask>
-      <mask>*Service.groovy</mask>
-      <mask>*.properties</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.g*</mask>
+      <mask>*.css|</mask>
+      <mask>*.css|*</mask>
+      <mask>*.css|*.</mask>
+      <mask>*.css|*.l</mask>
+      <mask>*.css|*.le</mask>
+      <mask>*.css|*.les</mask>
+      <mask>*.css|*.less</mask>
       <mask>*.gsp</mask>
       <mask>*.gs</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
+      <mask>*.grooby</mask>
+      <mask>*.groob</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.leel</mask>
+      <mask>*.lee</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
