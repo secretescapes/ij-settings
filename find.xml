@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -14,11 +15,20 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*ControllerSpec.groovy</mask>
-      <mask>*.groovy</mask>
       <mask>*Service.groovy</mask>
       <mask>*.properties</mask>
-      <mask>*.gsp</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.g*</mask>
+      <mask>*.gsp</mask>
+      <mask>*.gs</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
