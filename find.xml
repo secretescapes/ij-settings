@@ -28,14 +28,14 @@
       <mask>*.l</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gs</mask>
-      <mask>*.gsp</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.g</mask>
+      <mask>*.gs</mask>
+      <mask>*.gsp</mask>
     </recentFileMasks>
   </component>
 </application>
