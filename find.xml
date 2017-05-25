@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gsp" />
     <recentFileMasks>
       <mask>*.j</mask>
       <mask>*.g*</mask>
@@ -27,14 +26,14 @@
       <mask>*.l</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gs</mask>
+      <mask>*.gsp</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.g</mask>
-      <mask>*.gs</mask>
-      <mask>*.gsp</mask>
     </recentFileMasks>
   </component>
 </application>
