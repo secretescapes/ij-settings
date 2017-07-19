@@ -30,6 +30,7 @@
       </entry>
       <entry key="Merge">
         <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
