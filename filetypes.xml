@@ -6,6 +6,7 @@
       <mapping pattern="cjpeg" type="Native" />
       <mapping ext="bak" type="Native" />
       <mapping pattern=".asscache" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping pattern="jenvrc" type="Properties" />
       <mapping pattern=".mdlrc" type="YAML" />
