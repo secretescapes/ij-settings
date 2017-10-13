@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.g*</mask>
       <mask>*.css|</mask>
@@ -27,7 +28,6 @@
       <mask>*.l</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
@@ -36,6 +36,7 @@
       <mask>*.g</mask>
       <mask>*.gs</mask>
       <mask>*.gsp</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
