@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gsp" />
     <recentFileMasks>
       <mask>*.css|</mask>
       <mask>*.css|*</mask>
@@ -26,14 +27,14 @@
       <mask>*.</mask>
       <mask>*.gs</mask>
       <mask>*.js</mask>
-      <mask>*.gsp</mask>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.grooc</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.g</mask>
+      <mask>*.gsp</mask>
     </recentFileMasks>
   </component>
 </application>
